@@ -1,3 +1,2 @@
 # testhub
-test hub
 README
